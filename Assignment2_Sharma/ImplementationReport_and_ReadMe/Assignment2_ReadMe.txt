@@ -1,5 +1,5 @@
 Created By: Akshat Sharma
-	    Rahmanul Hoque
+
 IDE: Eclipse
 
 FOLLOW THESE STEPS TO RUN THE PROGRAM FROM ECLIPSE
