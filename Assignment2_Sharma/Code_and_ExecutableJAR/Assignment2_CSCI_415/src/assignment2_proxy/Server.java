@@ -1,3 +1,9 @@
+/*
+ * Name: HTTP Proxy Implementation project
+ * Course: CSCI 415 - Networking and Parallel Computation
+ * Created By: Akshat Sharma
+ */
+
 package assignment2_proxy;
 
 import java.io.*;
